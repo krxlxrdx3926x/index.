@@ -1,0 +1,40 @@
+
+p#pogrubienie_krol {
+  font-size: 29px; 
+  color: #9A59D1; 
+  font-weight: bold;
+}
+
+p#pochylona_krol {
+  font-size: 34pt; 
+  color: #FBBD6D; 
+  font-style: italic;
+}
+
+p#index_gorny_krol {
+  font-size: 0.9cm;
+  color: #AB8B1D; 
+  vertical-align: top;
+}
+
+p#index_dolny_krol {
+  font-size: 1.3cm; 
+  color: rgb(71%, 239%, 229%);
+  vertical-align: sub;
+}
+
+p#mono_krol {
+  font-size: 39px; 
+  color: #2BDB6D; 
+  font-family: monospace;
+}
+
+p#powiekszenie_krol {
+  color: #653B9F; 
+  font-size: 150%;
+}
+
+p#pomniejszenie_krol {
+  color: rgb(201%, 159%, 59%); 
+  font-size: 80%;
+}
