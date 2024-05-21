@@ -1,4 +1,0 @@
-p {
-color: fuchsia;
-font-size: 55 px;
- }
